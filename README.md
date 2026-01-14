@@ -1,6 +1,9 @@
-<h1 align="center">Rehan Mondal</h1>
-<h3 align="center"> Senior Quality Engineer | Python • Selenium • Playwright | AI-Ready QA</h3>
+<!-- <h1 align="center">Rehan Mondal</h1> -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=600&lines=Rehan+Mondal;Automation+Test+Engineer;Python+Selenium+Playwright" />
+</h1>
+<h3 align="center"> Senior Quality Engineer | Python • Selenium • Playwright | AI-Ready QA</h3>
 ---
 
 ### 👨‍💻 About Me
