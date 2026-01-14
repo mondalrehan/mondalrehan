@@ -1,9 +1,17 @@
-<!-- <h1 align="center">Rehan Mondal</h1> -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=38&pause=1000&color=0A2540&center=true&vCenter=true&width=600&lines=Rehan+Mondal" 
+    alt="Rehan Mondal"
+  />
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=600&lines=Rehan+Mondal;Automation+Test+Engineer;Python+Selenium+Playwright" />
-</h1>
-<h3 align="center"> Senior Quality Engineer | Python • Selenium • Playwright | AI-Ready QA</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=20&pause=500&color=1F3A5F&center=true&vCenter=true&width=900&lines=Senior+Quality+Engineer+%7C+Python+•+Selenium+•+Playwright+%7C" 
+    alt="Senior Quality Engineer"
+  />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
