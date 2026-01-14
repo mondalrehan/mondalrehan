@@ -14,16 +14,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔹 Automation Test Engineer with strong hands-on in **Python + Selenium**
-- 🔹 Experienced in **Web Automation, Test Framework Design & CI/CD**
-- 🔹 Currently upskilling towards **AI-driven Test Automation**
-- 🔹 Passionate about writing **clean, scalable automation code**
-- 🔹 Open to **client-facing & automation-heavy projects**
+### About Me
+- Automation Test Engineer with strong hands-on in **Python + Selenium**
+- Experienced in **Web Automation, Test Framework Design & CI/CD**
+- Currently upskilling towards **AI-driven Test Automation**
+- Passionate about writing **clean, scalable automation code**
+- Open to **client-facing & automation-heavy projects**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -57,14 +57,14 @@
 
 ---
 
-### 🤖 AI + Modern QA (Learning & Implementing)
+### AI + Modern QA (Learning & Implementing)
 - AI-assisted test case generation
 - Smart locators & self-healing tests
 - Test optimization using ML concepts
 - Using ChatGPT for test design & debugging
 
 ---
-### 🔧 Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -75,24 +75,51 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-### 📂 Featured Repositories
-🔹 **Python-Selenium-Framework**  
-➡️ End-to-end Selenium framework using PyTest & POM  
+### Featured Repositories
+- **Python-Selenium-Framework**  
+ End-to-end Selenium framework using PyTest & POM  
 
-🔹 **Playwright-Python-Automation**  
-➡️ Modern Playwright automation with fixtures & reports  
+- **Playwright-Python-Automation**  
+ Modern Playwright automation with fixtures & reports  
 
-🔹 **Automation-Interview-Prep**  
-➡️ Frequently asked QA & automation interview questions  
+- **Web Scraper Framework**  
+Webscraping and DAta Cleaning with Informative Report Generation
 
+- **Playwright-JavaScript Automation**  
+Webscraping and DAta Cleaning with Informative Report Generation
 
----
-
-### 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/rehanmondal01/
-- 📧 Email: mondalrehan002@gmail.com
-- 🌍 Location: Kolkata, WB, India
 
 ---
+### 🏢 Organizational Experience
 
-⭐ *“Quality is never an accident; it is always the result of intelligent effort.”*
+- **Tata Consultancy Services (TCS)**
+- **TEOCO Software Private Limited**
+---
+### 🎓 Educational Background
+
+- **B. Tech in Computer Science and Engineering**  
+  **MAKAUT** | **CGPA: 9.47** | *2019 – 2022*
+
+- **Diploma in Computer Science and Technology**  
+  **WBSCT&VE** | **CGPA: 8.9** | *2016 – 2019*
+
+- **Secondary (10th)**  
+  **WBBSE** | **77.14%** | *2015 – 2016*
+
+---
+### 🏆 Achievements & Certifications
+
+-  **TEO Star Award – Topper Team Player**  
+  *September 2024* (2nd Time)
+
+-  **TEO Star Award – Innovative & Productive Team Player**  
+  *March 2024* (1st Time)
+
+-  **Academic Excellence – Topper**  
+  *2019*
+
+### 📞 Connect With Me
+-  LinkedIn: https://www.linkedin.com/in/rehanmondal01/
+-  Email: mondalrehan002@gmail.com
+-  Location: Kolkata, WB, India
+
