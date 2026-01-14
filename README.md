@@ -92,6 +92,7 @@ Webscraping and DAta Cleaning with Informative Report Generation
 ---
 ### 🏢 Organizational Experience
 
+- **LTIMindtree (Curernt)**
 - **Tata Consultancy Services (TCS)**
 - **TEOCO Software Private Limited**
 ---
